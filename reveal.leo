@@ -583,7 +583,7 @@
 <t tx="49923230.20151103120014.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
     &lt;p&gt;自我評分成績:90&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;My homework&lt;/a&gt;
+    &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
 &lt;/section&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
