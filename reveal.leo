@@ -309,6 +309,7 @@
 <v t="49923230.20151103142912.1"><vh>What engineers do?</vh></v>
 <v t="49923230.20151103143044.1"><vh>Computer in Engineering.</vh></v>
 <v t="49923230.20151103143157.1"><vh>About Leo Editor</vh></v>
+<v t="49923230.20151103143520.1"><vh>Vimeo videos</vh></v>
 </v>
 </v>
 <v t="49923230.20151103120014.10"><vh>script</vh></v>
@@ -679,6 +680,12 @@
 &lt;/section&gt;
 
 &lt;/section&gt;
+</t>
+<t tx="49923230.20151103143520.1">&lt;section&gt;
+&lt;h1&gt;1st homework recording videos&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/144457035" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144457035"&gt;test1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
