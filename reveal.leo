@@ -65,15 +65,15 @@
 </v>
 </v>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
-<v t="amd.20150915155634.2"><vh>html 標註</vh>
-<v t="amd.20150915155634.3"><vh>head</vh>
+<v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
+<v t="amd.20150915155634.3" a="E"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915155634.8"><vh>body</vh>
-<v t="amd.20150915155634.9"><vh>div - reveal</vh>
-<v t="amd.20150915155634.10"><vh>div - slides</vh>
+<v t="amd.20150915155634.8" a="E"><vh>body</vh>
+<v t="amd.20150915155634.9" a="E"><vh>div - reveal</vh>
+<v t="amd.20150915155634.10" a="E"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
 <v t="amd.20150915172241.1"><vh>h1 - 開放自評規劃</vh></v>
 <v t="amd.20150915155634.12"><vh>h2 - 實體輔助工具</vh></v>
@@ -566,7 +566,9 @@
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;My 1st week homework slides&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
+    &lt;p&gt;Name: 陳柏村&lt;/p&gt;
+    &lt;p&gt;Date: 2015/10/01&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
