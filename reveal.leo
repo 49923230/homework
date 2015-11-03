@@ -305,7 +305,10 @@
 <v t="49923230.20151103120014.6" a="E"><vh>div class="slides"</vh>
 <v t="49923230.20151103120014.7"><vh>有關我的作業</vh></v>
 <v t="49923230.20151103120014.8"><vh>作業任務一</vh></v>
-<v t="49923230.20151103120014.9"><vh>第3張投影片</vh></v>
+<v t="49923230.20151103120014.9"><vh>自我評分</vh></v>
+<v t="49923230.20151103142912.1"><vh>What engineers do?</vh></v>
+<v t="49923230.20151103143044.1"><vh>Computer in Engineering.</vh></v>
+<v t="49923230.20151103143157.1"><vh>About Leo Editor</vh></v>
 </v>
 </v>
 <v t="49923230.20151103120014.10"><vh>script</vh></v>
@@ -585,6 +588,98 @@
     &lt;p&gt;自我評分成績:90&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
 &lt;/section&gt;</t>
+<t tx="49923230.20151103142912.1">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+&lt;section&gt;
+    &lt;h2&gt;What engineers do?&lt;/h2&gt;
+    &lt;p&gt;studying highlight and reflection&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h3&gt;Introduction&lt;/h3&gt;
+    &lt;p&gt;1.Engineers do creative work.&lt;/p&gt;
+    &lt;p&gt;2.Engineers must slove difficult problems within the time and cost limitations.&lt;/p&gt;
+    &lt;p&gt;3.Engineers are professionally responsible for the safety and performance of their designs.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h4&gt;Engineering Education&lt;/h4&gt;
+    &lt;p&gt;1.Engineering curriculum contains subjects may be divided into four categories.&lt;/p&gt;
+       &lt;p&gt;a. Science(physics, Chemistry, Mathematics)&lt;/p&gt;
+       &lt;p&gt;b. Engineering Science&lt;/p&gt;
+       &lt;p&gt;c. Applied Engineering&lt;/p&gt;
+       &lt;p&gt;d. Humanities and Social Sciences&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h5&gt;Engineering problem solving: A classical perspective&lt;/h5&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;1. Science&lt;/p&gt; 
+    &lt;p&gt;An engineering science subject presents the principles of science in a form well-suited for the solution of a particular class of engineering problem.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;2. Applied Engineering&lt;/p&gt;
+    &lt;p&gt;The applied engineering subjects are concerned with the art of engineering. A typical applied engineering subject is engineering design.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;3. Humanities and social sciences&lt;/p&gt;
+    &lt;p&gt;Humanities and social science are important cuz an engineer usually must deal with people and problems associated with people.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h2&gt;Go to right page&lt;/h2&gt;
+    &lt;p&gt;That's all, please go back up or to the next page&lt;/p&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="49923230.20151103143044.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+&lt;section&gt;
+    &lt;h6&gt;Computer in Engineering&lt;/h6&gt;
+    &lt;p&gt;A computer is any electronic device that sloves problems by processing data according to instructions from a program.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;Increased use of computers in manufacturing has led to many innovative changes. Most of these are covered by the term Computer Integrated Manufacture(CIM). &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;CIM covers all aspects of a manufacturing enterprise: &lt;/p&gt;
+    &lt;p&gt;Product design&lt;/p&gt;
+    &lt;p&gt;Process design&lt;/p&gt;
+    &lt;p&gt;Design for assembly&lt;/p&gt;
+    &lt;p&gt;Purchasing&lt;/p&gt;
+    &lt;p&gt;Concurrent engineering&lt;/p&gt;
+    &lt;p&gt;Product scheduling&lt;/p&gt;
+    &lt;p&gt;Quality control&lt;/p&gt;
+    &lt;p&gt;Marketing&lt;/p&gt;
+    &lt;p&gt;Customer support&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h2&gt;Go to right page&lt;/h2&gt;
+    &lt;p&gt;That's all, please go back up or to the next page&lt;/p&gt;
+&lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="49923230.20151103143157.1">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h6&gt;Leo Editor Tutorial&lt;/h6&gt;
+    &lt;p&gt;Python Leo Editor (Leo 編輯器) 是大綱管理器, 是文字編輯器, 是程式開發 IDE, 是網站內容管理器, 也是 LaTeX 資料編輯器, 任何能夠以 Python 程式管理的工具, 都可以從 Python Leo Editor (Leo 編輯器) 套件中轉換而得.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;Leo 編輯器 (Leo Editor) 畫面包含:&lt;/p&gt;
+    &lt;p&gt;大綱區 (Outline pane) - 專案的大綱內容&lt;/p&gt;
+    &lt;p&gt;內文區 (Body pane) - 與大綱對應的內文&lt;/p&gt;
+    &lt;p&gt;紀錄區 (Log pane) - 顯示執行結果之紀錄&lt;/p&gt;
+    &lt;p&gt;緩衝指令區 (Minibuffer) - 直接下特殊執行指令用&lt;/p&gt;
+    &lt;p&gt;執行狀態區 (Status area) - 顯示執行狀態&lt;/p&gt;
+    &lt;p&gt;圖標指令區 (Icon area) - 以按鍵或圖像顯示可執行指令&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;大綱區節點圖像標示:&lt;/p&gt;
+    &lt;p&gt;小藍色方形盒(blue box): 表示節點有內文(body text).&lt;/p&gt;
+    &lt;p&gt;紅色直條(red vertical bar): 表示節點已標示(marked).&lt;/p&gt;
+    &lt;p&gt;紅色圓形箭頭(circular arrow): 表示節點已複製(cloned).&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;打造leo editor可攜套件可連結至&lt;a href="https://leoeditor-coursemdetw.rhcloud.com/get_page?heading=Leo%20Editor%20Tutorial"&gt;推廣教學網站&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
