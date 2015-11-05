@@ -819,10 +819,12 @@
 &lt;/section&gt;
 
 &lt;section&gt;
+    &lt;h4&gt;Solvespace&lt;/h4&gt;
     &lt;p&gt;Solvespace is a convenient 3D design software which you can save the exe file in the usb and bring it around. And if I came up with any ideas, I can simply use it to design my first 3D drawing. Then I can show my teammate or other people how does it looks like. &lt;/p&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
+    &lt;h4&gt;Creo&lt;/h4&gt;
     &lt;p&gt;Solidworks is the first 3D design software I learned when I first get into this university. Which I think the interface is very easy to get use to it. And now I try to learn Creo by the tutorials withour taking any class. It's a bit hard to get use to it but didn't take too much time. Even the interface are quite different between Solidworks and Creo, but they are quite similar. I'm still learning how to use more function with Creo then I can realize how powerful it is as professor said. &lt;/p&gt;
 &lt;/section&gt;
 
