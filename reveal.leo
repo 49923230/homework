@@ -35,7 +35,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -297,7 +297,7 @@
 </v>
 </v>
 </v>
-<v t="49923230.20151103120014.1" a="E"><vh>@clean 2015cadpslidesw1.html</vh>
+<v t="49923230.20151103120014.1"><vh>@clean 2015cadpslidesw1.html</vh>
 <v t="49923230.20151103120014.2"><vh>檔案說明</vh></v>
 <v t="49923230.20151103120014.3" a="E"><vh>html 標註</vh>
 <v t="49923230.20151103120014.4" a="E"><vh>body 標註</vh>
@@ -313,6 +313,25 @@
 </v>
 </v>
 <v t="49923230.20151103120014.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="49923230.20151105233850.1" a="E"><vh>@clean 2015cadpslidesw2.html</vh>
+<v t="49923230.20151105233850.2"><vh>檔案說明</vh></v>
+<v t="49923230.20151105233850.3" a="E"><vh>html 標註</vh>
+<v t="49923230.20151105233850.4" a="E"><vh>body 標註</vh>
+<v t="49923230.20151105233850.5" a="E"><vh>div class="reveal"</vh>
+<v t="49923230.20151105233850.6" a="E"><vh>div class="slides"</vh>
+<v t="49923230.20151105233850.7"><vh>有關我的作業</vh></v>
+<v t="49923230.20151105233850.8"><vh>作業任務一</vh></v>
+<v t="49923230.20151105233850.9"><vh>自我評分</vh></v>
+<v t="49923230.20151105233850.10"><vh>Learning Solvespace</vh></v>
+<v t="49923230.20151105233850.11"><vh>Computer in Engineering.</vh></v>
+<v t="49923230.20151105233850.12"><vh>About Leo Editor</vh></v>
+<v t="49923230.20151105233850.13"><vh>Vimeo videos</vh></v>
+</v>
+</v>
+<v t="49923230.20151105233850.14"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -687,6 +706,157 @@
 &lt;/section&gt;
 
 </t>
+<t tx="49923230.20151105233850.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="49923230.20151105233850.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Videos of learning solvespace&lt;/h2&gt;
+    &lt;p&gt;Please slide down the page verticaly to watch the videos&lt;/p&gt;
+    &lt;p&gt;Because the Camstudio doesn't work on win10 so I use another recorder to record the videos, and there is 10min limit for free version&lt;/P&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Learning Solvespace Video 1&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/144497586" width="500" height="277" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144497586"&gt;bracket1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Learning Solvespace Videos 2&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/144746169" width="500" height="277" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144746169"&gt;bracket2&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20151105233850.11">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+&lt;section&gt;
+    &lt;h6&gt;Computer in Engineering&lt;/h6&gt;
+    &lt;p&gt;A computer is any electronic device that sloves problems by processing data according to instructions from a program.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;Increased use of computers in manufacturing has led to many innovative changes. Most of these are covered by the term Computer Integrated Manufacture(CIM). &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;CIM covers all aspects of a manufacturing enterprise: &lt;/p&gt;
+    &lt;p&gt;Product design&lt;/p&gt;
+    &lt;p&gt;Process design&lt;/p&gt;
+    &lt;p&gt;Design for assembly&lt;/p&gt;
+    &lt;p&gt;Purchasing&lt;/p&gt;
+    &lt;p&gt;Concurrent engineering&lt;/p&gt;
+    &lt;p&gt;Product scheduling&lt;/p&gt;
+    &lt;p&gt;Quality control&lt;/p&gt;
+    &lt;p&gt;Marketing&lt;/p&gt;
+    &lt;p&gt;Customer support&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h2&gt;Go to right page&lt;/h2&gt;
+    &lt;p&gt;That's all, please go back up or to the next page&lt;/p&gt;
+&lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="49923230.20151105233850.12">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h6&gt;Leo Editor Tutorial&lt;/h6&gt;
+    &lt;p&gt;Python Leo Editor (Leo 編輯器) 是大綱管理器, 是文字編輯器, 是程式開發 IDE, 是網站內容管理器, 也是 LaTeX 資料編輯器, 任何能夠以 Python 程式管理的工具, 都可以從 Python Leo Editor (Leo 編輯器) 套件中轉換而得.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;Leo 編輯器 (Leo Editor) 畫面包含:&lt;/p&gt;
+    &lt;p&gt;大綱區 (Outline pane) - 專案的大綱內容&lt;/p&gt;
+    &lt;p&gt;內文區 (Body pane) - 與大綱對應的內文&lt;/p&gt;
+    &lt;p&gt;紀錄區 (Log pane) - 顯示執行結果之紀錄&lt;/p&gt;
+    &lt;p&gt;緩衝指令區 (Minibuffer) - 直接下特殊執行指令用&lt;/p&gt;
+    &lt;p&gt;執行狀態區 (Status area) - 顯示執行狀態&lt;/p&gt;
+    &lt;p&gt;圖標指令區 (Icon area) - 以按鍵或圖像顯示可執行指令&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;大綱區節點圖像標示:&lt;/p&gt;
+    &lt;p&gt;小藍色方形盒(blue box): 表示節點有內文(body text).&lt;/p&gt;
+    &lt;p&gt;紅色直條(red vertical bar): 表示節點已標示(marked).&lt;/p&gt;
+    &lt;p&gt;紅色圓形箭頭(circular arrow): 表示節點已複製(cloned).&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;打造leo editor可攜套件可連結至&lt;a href="https://leoeditor-coursemdetw.rhcloud.com/get_page?heading=Leo%20Editor%20Tutorial"&gt;推廣教學網站&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20151105233850.13">&lt;section&gt;
+&lt;h1&gt;1st homework recording videos&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/144457035" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144457035"&gt;test1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="49923230.20151105233850.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="49923230.20151105233850.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="49923230.20151105233850.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;1st week hw slides&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="49923230.20151105233850.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="49923230.20151105233850.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20151105233850.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20151105233850.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;Learning Solvespace and Creo with Tutorial&lt;/h1&gt;
+    &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Date: 2015/10/12&lt;/p&gt;	
+&lt;/section&gt;
+	
+</t>
+<t tx="49923230.20151105233850.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;Homework reference&lt;/h1&gt;
+    &lt;p&gt;1st homework details&lt;/p&gt;
+    &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
+    &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="49923230.20151105233850.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h1&gt;自我評分&lt;/h1&gt;
+    &lt;p&gt;自我評分成績:90&lt;/p&gt;
+    &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
