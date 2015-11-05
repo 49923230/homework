@@ -326,9 +326,8 @@
 <v t="49923230.20151105233850.8"><vh>作業任務一</vh></v>
 <v t="49923230.20151105233850.9"><vh>自我評分</vh></v>
 <v t="49923230.20151105233850.10"><vh>Learning Solvespace</vh></v>
-<v t="49923230.20151105233850.11"><vh>Computer in Engineering.</vh></v>
-<v t="49923230.20151105233850.12"><vh>About Leo Editor</vh></v>
-<v t="49923230.20151105233850.13"><vh>Vimeo videos</vh></v>
+<v t="49923230.20151105233850.11"><vh>Learning Creo</vh></v>
+<v t="49923230.20151105235708.1"><vh>Review</vh></v>
 </v>
 </v>
 <v t="49923230.20151105233850.14"><vh>script</vh></v>
@@ -715,8 +714,8 @@
 
 &lt;section&gt;
     &lt;h2&gt;Videos of learning solvespace&lt;/h2&gt;
-    &lt;p&gt;Please slide down the page verticaly to watch the videos&lt;/p&gt;
-    &lt;p&gt;Because the Camstudio doesn't work on win10 so I use another recorder to record the videos, and there is 10min limit for free version&lt;/P&gt;
+    &lt;p&gt;1.Please slide down the page verticaly to watch the videos&lt;/p&gt;
+    &lt;p&gt;2.Because the Camstudio doesn't work on win10 so I use another recorder to record the videos, and there is 10min limit for free version&lt;/P&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
@@ -732,63 +731,18 @@
 &lt;/section&gt;
 </t>
 <t tx="49923230.20151105233850.11">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+
 &lt;section&gt;
-    &lt;h6&gt;Computer in Engineering&lt;/h6&gt;
-    &lt;p&gt;A computer is any electronic device that sloves problems by processing data according to instructions from a program.&lt;/p&gt;
+&lt;h3&gt;Videos of learning Creo&lt;/h3&gt;
+ &lt;p&gt;Please slide down the page verticaly to watch the videos&lt;/p&gt;
 &lt;/section&gt;
+
 &lt;section&gt;
-    &lt;p&gt;Increased use of computers in manufacturing has led to many innovative changes. Most of these are covered by the term Computer Integrated Manufacture(CIM). &lt;/p&gt;
+&lt;h3&gt;Learning Creo Video 3 &lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/144746168" width="500" height="279" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144746168"&gt;creo_kit_assembly&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/section&gt;
-&lt;section&gt;
-    &lt;p&gt;CIM covers all aspects of a manufacturing enterprise: &lt;/p&gt;
-    &lt;p&gt;Product design&lt;/p&gt;
-    &lt;p&gt;Process design&lt;/p&gt;
-    &lt;p&gt;Design for assembly&lt;/p&gt;
-    &lt;p&gt;Purchasing&lt;/p&gt;
-    &lt;p&gt;Concurrent engineering&lt;/p&gt;
-    &lt;p&gt;Product scheduling&lt;/p&gt;
-    &lt;p&gt;Quality control&lt;/p&gt;
-    &lt;p&gt;Marketing&lt;/p&gt;
-    &lt;p&gt;Customer support&lt;/p&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;h2&gt;Go to right page&lt;/h2&gt;
-    &lt;p&gt;That's all, please go back up or to the next page&lt;/p&gt;
-&lt;/section&gt;
+
 &lt;/section&gt;</t>
-<t tx="49923230.20151105233850.12">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
-
-&lt;section&gt;
-    &lt;h6&gt;Leo Editor Tutorial&lt;/h6&gt;
-    &lt;p&gt;Python Leo Editor (Leo 編輯器) 是大綱管理器, 是文字編輯器, 是程式開發 IDE, 是網站內容管理器, 也是 LaTeX 資料編輯器, 任何能夠以 Python 程式管理的工具, 都可以從 Python Leo Editor (Leo 編輯器) 套件中轉換而得.&lt;/p&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;p&gt;Leo 編輯器 (Leo Editor) 畫面包含:&lt;/p&gt;
-    &lt;p&gt;大綱區 (Outline pane) - 專案的大綱內容&lt;/p&gt;
-    &lt;p&gt;內文區 (Body pane) - 與大綱對應的內文&lt;/p&gt;
-    &lt;p&gt;紀錄區 (Log pane) - 顯示執行結果之紀錄&lt;/p&gt;
-    &lt;p&gt;緩衝指令區 (Minibuffer) - 直接下特殊執行指令用&lt;/p&gt;
-    &lt;p&gt;執行狀態區 (Status area) - 顯示執行狀態&lt;/p&gt;
-    &lt;p&gt;圖標指令區 (Icon area) - 以按鍵或圖像顯示可執行指令&lt;/p&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;p&gt;大綱區節點圖像標示:&lt;/p&gt;
-    &lt;p&gt;小藍色方形盒(blue box): 表示節點有內文(body text).&lt;/p&gt;
-    &lt;p&gt;紅色直條(red vertical bar): 表示節點已標示(marked).&lt;/p&gt;
-    &lt;p&gt;紅色圓形箭頭(circular arrow): 表示節點已複製(cloned).&lt;/p&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;p&gt;打造leo editor可攜套件可連結至&lt;a href="https://leoeditor-coursemdetw.rhcloud.com/get_page?heading=Leo%20Editor%20Tutorial"&gt;推廣教學網站&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;/section&gt;
-</t>
-<t tx="49923230.20151105233850.13">&lt;section&gt;
-&lt;h1&gt;1st homework recording videos&lt;/h1&gt;
-&lt;iframe src="https://player.vimeo.com/video/144457035" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144457035"&gt;test1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
 <t tx="49923230.20151105233850.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -857,6 +811,23 @@
     &lt;p&gt;自我評分成績:90&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
 &lt;/section&gt;</t>
+<t tx="49923230.20151105235708.1">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h4&gt;Reviews of learning Solvespace and Creo&lt;/h4&gt;
+    &lt;p&gt;Please slide down the page verticaly to see the review&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;p&gt;Solvespace is a convenient 3D design software which you can save the exe file in the usb and bring it around. And if I came up with any ideas, I can simply use it to design my first 3D drawing. Then I can show my teammate or other people how does it looks like. &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;p&gt;Solidworks is the first 3D design software I learned when I first get into this university. Which I think the interface is very easy to get use to it. And now I try to learn Creo by the tutorials withour taking any class. It's a bit hard to get use to it but didn't take too much time. Even the interface are quite different between Solidworks and Creo, but they are quite similar. I'm still learning how to use more function with Creo then I can realize how powerful it is as professor said. &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
