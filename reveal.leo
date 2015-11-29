@@ -40,7 +40,7 @@
 <v t="49923230.20151129232537.1"><vh>@edit 49923230_cp_w10.md</vh></v>
 <v t="49923230.20151109100939.1"><vh>@edit 49923230_cp_w2.md</vh></v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
-<v t="49923230.20151129232925.1"><vh>@clean 2015cadpslidesw10.html</vh>
+<v t="49923230.20151129232925.1" a="E"><vh>@clean 2015cadpslidesw10.html</vh>
 <v t="49923230.20151129232925.2"><vh>檔案說明</vh></v>
 <v t="49923230.20151129232925.3" a="E"><vh>html 標註</vh>
 <v t="49923230.20151129232925.4" a="E"><vh>body 標註</vh>
@@ -77,10 +77,10 @@
 </v>
 <v t="49923230.20151109100835.1"><vh>@clean 2015cadpslidesw1.html</vh>
 <v t="49923230.20151109100835.2"><vh>檔案說明</vh></v>
-<v t="49923230.20151109100835.3"><vh>html 標註</vh>
-<v t="49923230.20151109100835.4"><vh>body 標註</vh>
-<v t="49923230.20151109100835.5"><vh>div class="reveal"</vh>
-<v t="49923230.20151109100835.6"><vh>div class="slides"</vh>
+<v t="49923230.20151109100835.3" a="E"><vh>html 標註</vh>
+<v t="49923230.20151109100835.4" a="E"><vh>body 標註</vh>
+<v t="49923230.20151109100835.5" a="E"><vh>div class="reveal"</vh>
+<v t="49923230.20151109100835.6" a="E"><vh>div class="slides"</vh>
 <v t="49923230.20151109100835.7"><vh>有關我的作業</vh></v>
 <v t="49923230.20151109100835.8"><vh>作業任務一</vh></v>
 <v t="49923230.20151109100835.9"><vh>自我評分</vh></v>
@@ -484,7 +484,7 @@
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
-&lt;title&gt;2nd uploading slides&lt;/title&gt;
+&lt;title&gt;10th weeks uploding&lt;/title&gt;
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
@@ -509,7 +509,7 @@
 &lt;/div&gt;
 </t>
 <t tx="49923230.20151129232925.7">&lt;section&gt;
-    &lt;h1&gt;Install Miniconda&lt;/h1&gt;
+    &lt;h1&gt;Installing Miniconda&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2015/11/29&lt;/p&gt;	
