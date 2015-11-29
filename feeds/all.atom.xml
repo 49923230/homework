@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 49923230 Homework</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/all.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-09-27T20:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第10週</title><link href="http://example.com/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:example.com,2015-09-27:2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;Below is slides of Install Miniconda&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 49923230 Homework</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/all.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-09-27T20:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第10週</title><link href="http://example.com/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:example.com,2015-09-27:2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;Below is slides of Installing Miniconda&lt;/p&gt;
 &lt;p&gt;Using iframe insert slides:&lt;/p&gt;
-&lt;iframe src="2015cadpslidesw2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="2015cadpslidesw10.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="2015cadpslidesw2.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
+&lt;p&gt;&lt;a href="2015cadpslidesw10.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
 &lt;br&gt;
 &lt;hr&gt;
 &lt;html&gt;
