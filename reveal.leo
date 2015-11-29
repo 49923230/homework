@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -28,7 +28,7 @@
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
-<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20150919112710.1"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
@@ -37,8 +37,26 @@
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1"><vh>@path pelican\content</vh></v>
 <v t="49923230.20151109101729.1"><vh>@edit 49923230_cp_w4.md</vh></v>
+<v t="49923230.20151129232537.1"><vh>@edit 49923230_cp_w10.md</vh></v>
 <v t="49923230.20151109100939.1"><vh>@edit 49923230_cp_w2.md</vh></v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="49923230.20151129232925.1"><vh>@clean 2015cadpslidesw10.html</vh>
+<v t="49923230.20151129232925.2"><vh>檔案說明</vh></v>
+<v t="49923230.20151129232925.3" a="E"><vh>html 標註</vh>
+<v t="49923230.20151129232925.4" a="E"><vh>body 標註</vh>
+<v t="49923230.20151129232925.5" a="E"><vh>div class="reveal"</vh>
+<v t="49923230.20151129232925.6" a="E"><vh>div class="slides"</vh>
+<v t="49923230.20151129232925.7"><vh>About my homework</vh></v>
+<v t="49923230.20151129232925.8"><vh>Homework reference</vh></v>
+<v t="49923230.20151129232925.9"><vh>自我評分</vh></v>
+<v t="49923230.20151129232925.10"><vh>Install miniconda</vh></v>
+<v t="49923230.20151129232925.12"><vh>Review</vh></v>
+</v>
+</v>
+<v t="49923230.20151129232925.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="49923230.20151109100847.1"><vh>@clean 2015cadpslidesw2.html</vh>
 <v t="49923230.20151109100847.2"><vh>檔案說明</vh></v>
 <v t="49923230.20151109100847.3"><vh>html 標註</vh>
@@ -402,6 +420,111 @@
 				
 </t>
 <t tx="49923230.20151109100847.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h1&gt;自我評分&lt;/h1&gt;
+    &lt;p&gt;自我評分成績:90&lt;/p&gt;
+    &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="49923230.20151129232925.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="49923230.20151129232925.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Videos of Installing Miniconda&lt;/h2&gt;
+    &lt;p&gt;1.Please slide down the page verticaly to watch the videos&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Installing Miniconda and other portable tools&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/147218972" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147218972"&gt;install miniconda&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What else were installed with miniconda?&lt;/h2&gt;
+&lt;p&gt;1. Using Conda to install pip.&lt;/p&gt;
+&lt;p&gt;2. Using pip to install pelican markdown.&lt;/p&gt;
+&lt;p&gt;3. Using conda to install pyqt4. &lt;/p&gt;
+&lt;p&gt;4. Using pip to install LeoEditor. &lt;/p&gt;
+&lt;p&gt;5. Using conda to install Jupyter. &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20151129232925.12">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h4&gt;Reviews of Install Miniconda as protable tool&lt;/h4&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;p&gt;Anaconda is the full package portable tools, which may take too much storage from the disk. Miniconda is for solving thiese problems. Which you just need to install the tools that you want to use.Which became even more convenient for people to make a persoanl portable tools. &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20151129232925.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="49923230.20151129232925.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="49923230.20151129232925.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;2nd uploading slides&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="49923230.20151129232925.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="49923230.20151129232925.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20151129232925.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20151129232925.7">&lt;section&gt;
+    &lt;h1&gt;Install Miniconda&lt;/h1&gt;
+    &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Date: 2015/11/29&lt;/p&gt;	
+&lt;/section&gt;
+	
+</t>
+<t tx="49923230.20151129232925.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;Homework reference&lt;/h1&gt;
+    &lt;p&gt;Homework details&lt;/p&gt;
+    &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
+    &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="49923230.20151129232925.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
     &lt;p&gt;自我評分成績:90&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
