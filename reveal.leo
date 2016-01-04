@@ -35,62 +35,151 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1"><vh>@path pelican\content</vh></v>
-<v t="49923230.20151109101729.1"><vh>@edit 49923230_cp_w4.md</vh></v>
-<v t="49923230.20151129232537.1"><vh>@edit 49923230_cp_w10.md</vh></v>
-<v t="49923230.20151109100939.1"><vh>@edit 49923230_cp_w2.md</vh></v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
-<v t="49923230.20151129232925.1" a="E"><vh>@clean 2015cadpslidesw10.html</vh>
-<v t="49923230.20151129232925.2"><vh>檔案說明</vh></v>
-<v t="49923230.20151129232925.3" a="E"><vh>html 標註</vh>
-<v t="49923230.20151129232925.4" a="E"><vh>body 標註</vh>
-<v t="49923230.20151129232925.5" a="E"><vh>div class="reveal"</vh>
-<v t="49923230.20151129232925.6" a="E"><vh>div class="slides"</vh>
-<v t="49923230.20151129232925.7"><vh>About my homework</vh></v>
-<v t="49923230.20151129232925.8"><vh>Homework reference</vh></v>
-<v t="49923230.20151129232925.9"><vh>自我評分</vh></v>
-<v t="49923230.20151129232925.10"><vh>Install miniconda</vh></v>
-<v t="49923230.20151129232925.12"><vh>Review</vh></v>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
+<v t="49923230.20160104175044.1"><vh>@edit 49923230_cp_w2.md</vh></v>
+<v t="49923230.20160104175038.1"><vh>@edit 49923230_cp_w4.md</vh></v>
+<v t="49923230.20160104175033.1"><vh>@edit 49923230_cp_w5.md</vh></v>
+<v t="49923230.20160104175027.1"><vh>@edit 49923230_cp_w6.md</vh></v>
+<v t="49923230.20160104175022.1"><vh>@edit 49923230_cp_w7.md</vh></v>
+<v t="49923230.20160104175015.1"><vh>@edit 49923230_cp_w10.md</vh></v>
+<v t="49923230.20160104175008.1"><vh>@edit 49923230_cp_w11.md</vh></v>
+<v t="49923230.20160104174947.1"><vh>@edit 49923230_cp_w14.md</vh></v>
+<v t="49923230.20160104174924.1"><vh>@edit 49923230_cp_w15.md</vh></v>
+</v>
+<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
+<v t="49923230.20160104175300.1"><vh>@clean 2015cadpslidesw1.html</vh>
+<v t="49923230.20160104175300.2"><vh>檔案說明</vh></v>
+<v t="49923230.20160104175300.3" a="E"><vh>html 標註</vh>
+<v t="49923230.20160104175300.4" a="E"><vh>body 標註</vh>
+<v t="49923230.20160104175300.5" a="E"><vh>div class="reveal"</vh>
+<v t="49923230.20160104175300.6" a="E"><vh>div class="slides"</vh>
+<v t="49923230.20160104175300.7"><vh>有關我的作業</vh></v>
+<v t="49923230.20160104175300.8"><vh>作業任務一</vh></v>
+<v t="49923230.20160104175300.9"><vh>自我評分</vh></v>
+<v t="49923230.20160104175300.10"><vh>What engineers do?</vh></v>
+<v t="49923230.20160104175300.11"><vh>Computer in Engineering.</vh></v>
+<v t="49923230.20160104175300.12"><vh>About Leo Editor</vh></v>
+<v t="49923230.20160104175300.13"><vh>Vimeo videos</vh></v>
 </v>
 </v>
-<v t="49923230.20151129232925.13"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="49923230.20151109100847.1"><vh>@clean 2015cadpslidesw2.html</vh>
-<v t="49923230.20151109100847.2"><vh>檔案說明</vh></v>
-<v t="49923230.20151109100847.3"><vh>html 標註</vh>
-<v t="49923230.20151109100847.4"><vh>body 標註</vh>
-<v t="49923230.20151109100847.5"><vh>div class="reveal"</vh>
-<v t="49923230.20151109100847.6"><vh>div class="slides"</vh>
-<v t="49923230.20151109100847.7"><vh>有關我的作業</vh></v>
-<v t="49923230.20151109100847.8"><vh>作業任務一</vh></v>
-<v t="49923230.20151109100847.9"><vh>自我評分</vh></v>
-<v t="49923230.20151109100847.10"><vh>Learning Solvespace</vh></v>
-<v t="49923230.20151109100847.11"><vh>Learning Creo</vh></v>
-<v t="49923230.20151109100847.12"><vh>Review</vh></v>
-</v>
-</v>
-<v t="49923230.20151109100847.13"><vh>script</vh></v>
+<v t="49923230.20160104175300.14"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="49923230.20151109100835.1"><vh>@clean 2015cadpslidesw1.html</vh>
-<v t="49923230.20151109100835.2"><vh>檔案說明</vh></v>
-<v t="49923230.20151109100835.3" a="E"><vh>html 標註</vh>
-<v t="49923230.20151109100835.4" a="E"><vh>body 標註</vh>
-<v t="49923230.20151109100835.5" a="E"><vh>div class="reveal"</vh>
-<v t="49923230.20151109100835.6" a="E"><vh>div class="slides"</vh>
-<v t="49923230.20151109100835.7"><vh>有關我的作業</vh></v>
-<v t="49923230.20151109100835.8"><vh>作業任務一</vh></v>
-<v t="49923230.20151109100835.9"><vh>自我評分</vh></v>
-<v t="49923230.20151109100835.10"><vh>What engineers do?</vh></v>
-<v t="49923230.20151109100835.11"><vh>Computer in Engineering.</vh></v>
-<v t="49923230.20151109100835.12"><vh>About Leo Editor</vh></v>
-<v t="49923230.20151109100835.13"><vh>Vimeo videos</vh></v>
+<v t="49923230.20160104175316.1"><vh>@clean 2015cadpslidesw4.html</vh>
+<v t="49923230.20160104175316.2"><vh>檔案說明</vh></v>
+<v t="49923230.20160104175316.3"><vh>html 標註</vh>
+<v t="49923230.20160104175316.4"><vh>body 標註</vh>
+<v t="49923230.20160104175316.5"><vh>div class="reveal"</vh>
+<v t="49923230.20160104175316.6"><vh>div class="slides"</vh>
+<v t="49923230.20160104175316.7"><vh>有關我的作業</vh></v>
+<v t="49923230.20160104175316.8"><vh>作業任務一</vh></v>
+<v t="49923230.20160104175316.9"><vh>自我評分</vh></v>
+<v t="49923230.20160104175316.10"><vh>Learning Solvespace</vh></v>
+<v t="49923230.20160104175316.11"><vh>Review</vh></v>
 </v>
 </v>
-<v t="49923230.20151109100835.14"><vh>script</vh></v>
+<v t="49923230.20160104175316.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="49923230.20160104175331.1"><vh>@clean 2015cadpslidesw5.html</vh>
+<v t="49923230.20160104175331.2"><vh>檔案說明</vh></v>
+<v t="49923230.20160104175331.3"><vh>html 標註</vh>
+<v t="49923230.20160104175331.4"><vh>body 標註</vh>
+<v t="49923230.20160104175331.5"><vh>div class="reveal"</vh>
+<v t="49923230.20160104175331.6"><vh>div class="slides"</vh>
+<v t="49923230.20160104175331.7"><vh>有關我的作業</vh></v>
+<v t="49923230.20160104175331.8"><vh>作業任務一</vh></v>
+<v t="49923230.20160104175331.9"><vh>自我評分</vh></v>
+<v t="49923230.20160104175331.10"><vh>Learning Creo</vh></v>
+<v t="49923230.20160104175331.11"><vh>Review</vh></v>
+</v>
+</v>
+<v t="49923230.20160104175331.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="49923230.20160104175336.1"><vh>@clean 2015cadpslidesw6.html</vh>
+<v t="49923230.20160104175336.2"><vh>檔案說明</vh></v>
+<v t="49923230.20160104175336.3"><vh>html 標註</vh>
+<v t="49923230.20160104175336.4"><vh>body 標註</vh>
+<v t="49923230.20160104175336.5"><vh>div class="reveal"</vh>
+<v t="49923230.20160104175336.6"><vh>div class="slides"</vh>
+<v t="49923230.20160104175336.7"><vh>有關我的作業</vh></v>
+<v t="49923230.20160104175336.8"><vh>作業任務一</vh></v>
+<v t="49923230.20160104175336.9"><vh>自我評分</vh></v>
+<v t="49923230.20160104175336.10"><vh>Review</vh></v>
+</v>
+</v>
+<v t="49923230.20160104175336.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="49923230.20160104175341.1"><vh>@clean 2015cadpslidesw7.html</vh>
+<v t="49923230.20160104175341.2"><vh>檔案說明</vh></v>
+<v t="49923230.20160104175341.3"><vh>html 標註</vh>
+<v t="49923230.20160104175341.4"><vh>body 標註</vh>
+<v t="49923230.20160104175341.5"><vh>div class="reveal"</vh>
+<v t="49923230.20160104175341.6"><vh>div class="slides"</vh>
+<v t="49923230.20160104175341.7"><vh>有關我的作業</vh></v>
+<v t="49923230.20160104175341.8"><vh>作業任務一</vh></v>
+<v t="49923230.20160104175341.9"><vh>自我評分</vh></v>
+<v t="49923230.20160104175341.10"><vh>Review</vh></v>
+</v>
+</v>
+<v t="49923230.20160104175341.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="49923230.20160104175347.1"><vh>@clean 2015cadpslidesw10.html</vh>
+<v t="49923230.20160104175347.2"><vh>檔案說明</vh></v>
+<v t="49923230.20160104175347.3"><vh>html 標註</vh>
+<v t="49923230.20160104175347.4"><vh>body 標註</vh>
+<v t="49923230.20160104175347.5"><vh>div class="reveal"</vh>
+<v t="49923230.20160104175347.6"><vh>div class="slides"</vh>
+<v t="49923230.20160104175347.7"><vh>About my homework</vh></v>
+<v t="49923230.20160104175347.8"><vh>Homework reference</vh></v>
+<v t="49923230.20160104175347.9"><vh>自我評分</vh></v>
+<v t="49923230.20160104175347.10"><vh>Install miniconda</vh></v>
+<v t="49923230.20160104175347.11"><vh>Review</vh></v>
+</v>
+</v>
+<v t="49923230.20160104175347.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="49923230.20160104175352.1"><vh>@clean 2015cadpslidesw14.html</vh>
+<v t="49923230.20160104175352.2"><vh>檔案說明</vh></v>
+<v t="49923230.20160104175352.3"><vh>html 標註</vh>
+<v t="49923230.20160104175352.4"><vh>body 標註</vh>
+<v t="49923230.20160104175352.5"><vh>div class="reveal"</vh>
+<v t="49923230.20160104175352.6"><vh>div class="slides"</vh>
+<v t="49923230.20160104175352.7"><vh>About my homework</vh></v>
+<v t="49923230.20160104175352.8"><vh>Homework reference</vh></v>
+<v t="49923230.20160104175352.9"><vh>自我評分</vh></v>
+<v t="49923230.20160104175352.10"><vh>assemble nutcracker</vh></v>
+<v t="49923230.20160104175352.11"><vh>Review</vh></v>
+</v>
+</v>
+<v t="49923230.20160104175352.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="49923230.20160104175359.1"><vh>@clean 2015cadpslidesw15.html</vh>
+<v t="49923230.20160104175359.2"><vh>檔案說明</vh></v>
+<v t="49923230.20160104175359.3"><vh>html 標註</vh>
+<v t="49923230.20160104175359.4"><vh>body 標註</vh>
+<v t="49923230.20160104175359.5"><vh>div class="reveal"</vh>
+<v t="49923230.20160104175359.6"><vh>div class="slides"</vh>
+<v t="49923230.20160104175359.7"><vh>About my homework</vh></v>
+<v t="49923230.20160104175359.8"><vh>Homework reference</vh></v>
+<v t="49923230.20160104175359.9"><vh>自我評分</vh></v>
+<v t="49923230.20160104175359.10"><vh>Review</vh></v>
+</v>
+</v>
+<v t="49923230.20160104175359.11"><vh>script</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -102,12 +191,12 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="49923230.20151109100835.1">@language xml
+<t tx="49923230.20160104175300.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="49923230.20151109100835.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104175300.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
 
 &lt;section&gt;
     &lt;h2&gt;What engineers do?&lt;/h2&gt;
@@ -156,7 +245,7 @@
 
 &lt;/section&gt;
 </t>
-<t tx="49923230.20151109100835.11">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104175300.11">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
 &lt;section&gt;
     &lt;h6&gt;Computer in Engineering&lt;/h6&gt;
     &lt;p&gt;A computer is any electronic device that sloves problems by processing data according to instructions from a program.&lt;/p&gt;
@@ -181,7 +270,7 @@
     &lt;p&gt;That's all, please go back up or to the next page&lt;/p&gt;
 &lt;/section&gt;
 &lt;/section&gt;</t>
-<t tx="49923230.20151109100835.12">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104175300.12">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
 
 &lt;section&gt;
     &lt;h6&gt;Leo Editor Tutorial&lt;/h6&gt;
@@ -215,13 +304,13 @@
 
 &lt;/section&gt;
 </t>
-<t tx="49923230.20151109100835.13">&lt;section&gt;
+<t tx="49923230.20160104175300.13">&lt;section&gt;
 &lt;h1&gt;1st homework recording videos&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/144497585" width="500" height="276" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144497585"&gt;w1hm&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="49923230.20151109100835.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="49923230.20160104175300.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -230,18 +319,18 @@
 &lt;/script&gt;
 	
 </t>
-<t tx="49923230.20151109100835.2">&lt;!--
+<t tx="49923230.20160104175300.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="49923230.20151109100835.3">&lt;!doctype html&gt;
+<t tx="49923230.20160104175300.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
-&lt;title&gt;1st uploading slides&lt;/title&gt;
+&lt;title&gt;2nd week slides&lt;/title&gt;
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
@@ -251,32 +340,32 @@
 &lt;/head&gt;
 @others
 </t>
-<t tx="49923230.20151109100835.4">&lt;body&gt;
+<t tx="49923230.20160104175300.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="49923230.20151109100835.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="49923230.20160104175300.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="49923230.20151109100835.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="49923230.20160104175300.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="49923230.20151109100835.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="49923230.20160104175300.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;My 1st uploading homework slides&lt;/h1&gt;
+    &lt;h1&gt;My 2nd week homework slides&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2015/10/01&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
-<t tx="49923230.20151109100835.8">&lt;section id="hw-task-one"&gt;
+<t tx="49923230.20160104175300.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;Homework reference&lt;/h1&gt;
     &lt;p&gt;Homework details&lt;/p&gt;
     &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
@@ -284,17 +373,17 @@
 &lt;/section&gt;
 				
 </t>
-<t tx="49923230.20151109100835.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104175300.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
-    &lt;p&gt;自我評分成績:90&lt;/p&gt;
+    &lt;p&gt;自我評分成績:80&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
 &lt;/section&gt;</t>
-<t tx="49923230.20151109100847.1">@language xml
+<t tx="49923230.20160104175316.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="49923230.20151109100847.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104175316.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
 
 &lt;section&gt;
     &lt;h2&gt;Videos of learning solvespace&lt;/h2&gt;
@@ -314,7 +403,94 @@
 
 &lt;/section&gt;
 </t>
-<t tx="49923230.20151109100847.11">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104175316.11">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h4&gt;Reviews of learning Solvespace&lt;/h4&gt;
+    &lt;p&gt;Please slide down the page verticaly to see the review&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h4&gt;Solvespace&lt;/h4&gt;
+    &lt;p&gt;Solvespace is a convenient 3D design software which you can save the exe file in the usb and bring it around. And if I came up with any ideas, I can simply use it to design my first 3D drawing. Then I can show my teammate or other people how does it looks like. &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20160104175316.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="49923230.20160104175316.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="49923230.20160104175316.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;4th week slides&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="49923230.20160104175316.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="49923230.20160104175316.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20160104175316.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20160104175316.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;Learning Solvespace with Tutorial&lt;/h1&gt;
+    &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Date: 2015/10/12&lt;/p&gt;	
+&lt;/section&gt;
+	
+</t>
+<t tx="49923230.20160104175316.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;Homework reference&lt;/h1&gt;
+    &lt;p&gt;Homework details&lt;/p&gt;
+    &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
+    &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="49923230.20160104175316.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h1&gt;自我評分&lt;/h1&gt;
+    &lt;p&gt;自我評分成績:80&lt;/p&gt;
+    &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="49923230.20160104175331.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="49923230.20160104175331.10">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
 
 &lt;section&gt;
 &lt;h3&gt;Videos of learning Creo&lt;/h3&gt;
@@ -337,16 +513,11 @@
 &lt;/section&gt;
 
 &lt;/section&gt;</t>
-<t tx="49923230.20151109100847.12">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104175331.11">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
 
 &lt;section&gt;
-    &lt;h4&gt;Reviews of learning Solvespace and Creo&lt;/h4&gt;
+    &lt;h4&gt;Reviews of learning Creo&lt;/h4&gt;
     &lt;p&gt;Please slide down the page verticaly to see the review&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-    &lt;h4&gt;Solvespace&lt;/h4&gt;
-    &lt;p&gt;Solvespace is a convenient 3D design software which you can save the exe file in the usb and bring it around. And if I came up with any ideas, I can simply use it to design my first 3D drawing. Then I can show my teammate or other people how does it looks like. &lt;/p&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
@@ -356,7 +527,7 @@
 
 &lt;/section&gt;
 </t>
-<t tx="49923230.20151109100847.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="49923230.20160104175331.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -365,18 +536,18 @@
 &lt;/script&gt;
 	
 </t>
-<t tx="49923230.20151109100847.2">&lt;!--
+<t tx="49923230.20160104175331.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="49923230.20151109100847.3">&lt;!doctype html&gt;
+<t tx="49923230.20160104175331.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
-&lt;title&gt;2nd uploading slides&lt;/title&gt;
+&lt;title&gt;5th week slides&lt;/title&gt;
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
@@ -386,32 +557,32 @@
 &lt;/head&gt;
 @others
 </t>
-<t tx="49923230.20151109100847.4">&lt;body&gt;
+<t tx="49923230.20160104175331.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="49923230.20151109100847.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="49923230.20160104175331.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="49923230.20151109100847.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="49923230.20160104175331.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="49923230.20151109100847.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="49923230.20160104175331.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;Learning Solvespace and Creo with Tutorial&lt;/h1&gt;
+    &lt;h1&gt;Learning Creo with Tutorial&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2015/10/12&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
-<t tx="49923230.20151109100847.8">&lt;section id="hw-task-one"&gt;
+<t tx="49923230.20160104175331.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;Homework reference&lt;/h1&gt;
     &lt;p&gt;Homework details&lt;/p&gt;
     &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
@@ -419,17 +590,203 @@
 &lt;/section&gt;
 				
 </t>
-<t tx="49923230.20151109100847.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104175331.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
-    &lt;p&gt;自我評分成績:90&lt;/p&gt;
+    &lt;p&gt;自我評分成績:80&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
 &lt;/section&gt;</t>
-<t tx="49923230.20151129232925.1">@language xml
+<t tx="49923230.20160104175336.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="49923230.20151129232925.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104175336.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h4&gt;Course Reviews&lt;/h4&gt;
+    &lt;p&gt;Please slide down the page verticaly to see the review&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;p&gt;
+    Professor talked about the 3D CAD drawing softwares in the class. Like Pro E, Creo, Solidworks and Catia so on.  
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20160104175336.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="49923230.20160104175336.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="49923230.20160104175336.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;6th week slides&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="49923230.20160104175336.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="49923230.20160104175336.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20160104175336.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20160104175336.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;6th week reviews&lt;/h1&gt;
+    &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Date: 2015/10/12&lt;/p&gt;	
+&lt;/section&gt;
+	
+</t>
+<t tx="49923230.20160104175336.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;Homework reference&lt;/h1&gt;
+    &lt;p&gt;Homework details&lt;/p&gt;
+    &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
+    &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="49923230.20160104175336.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h1&gt;自我評分&lt;/h1&gt;
+    &lt;p&gt;自我評分成績:70&lt;/p&gt;
+    &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="49923230.20160104175341.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="49923230.20160104175341.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h4&gt;Course Reviews&lt;/h4&gt;
+    &lt;p&gt;Please slide down the page verticaly to see the review&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;p&gt;
+    The internet doesnt work this week. Professor taught us how to switch from ipv4 to ipv6. Because ipv4 protocol is not going to be enough in the future. So people develop the ipv6 protocol to slove the problem. 
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Steps of ipv6 setting&lt;/h4&gt;
+&lt;p&gt;
+1. Go into internet setting. (網路共和中心 -&gt; 區域連線 -&gt; 內容 -&gt;選擇ipv6 DNS Server)
+2. Open browser -&gt; setting -&gt; proxy lan
+3. Check address: proxy.mde.tw
+4. 設定中繼
+&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20160104175341.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="49923230.20160104175341.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="49923230.20160104175341.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;7th week slides&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="49923230.20160104175341.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="49923230.20160104175341.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20160104175341.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20160104175341.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;7th week reviews&lt;/h1&gt;
+    &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Date: 2015/10/12&lt;/p&gt;	
+&lt;/section&gt;
+	
+</t>
+<t tx="49923230.20160104175341.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;Homework reference&lt;/h1&gt;
+    &lt;p&gt;Homework details&lt;/p&gt;
+    &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
+    &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="49923230.20160104175341.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h1&gt;自我評分&lt;/h1&gt;
+    &lt;p&gt;自我評分成績:70&lt;/p&gt;
+    &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="49923230.20160104175347.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="49923230.20160104175347.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
 
 &lt;section&gt;
     &lt;h2&gt;Videos of Installing Miniconda&lt;/h2&gt;
@@ -442,7 +799,7 @@
 &lt;/section&gt;
 
 &lt;section&gt;
-&lt;h2&gt;What else were installed with miniconda?&lt;/h2&gt;
+&lt;h2&gt;What else were installed in miniconda?&lt;/h2&gt;
 &lt;p&gt;1. Using Conda to install pip.&lt;/p&gt;
 &lt;p&gt;2. Using pip to install pelican markdown.&lt;/p&gt;
 &lt;p&gt;3. Using conda to install pyqt4. &lt;/p&gt;
@@ -452,19 +809,19 @@
 
 &lt;/section&gt;
 </t>
-<t tx="49923230.20151129232925.12">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104175347.11">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
 
 &lt;section&gt;
-    &lt;h4&gt;Reviews of Install Miniconda as protable tool&lt;/h4&gt;
+    &lt;h4&gt;Reviews of installing Miniconda as protable tool&lt;/h4&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
-    &lt;p&gt;Anaconda is the full package portable tools, which may take too much storage from the disk. Miniconda is for solving thiese problems. Which you just need to install the tools that you want to use.Which became even more convenient for people to make a persoanl portable tools. &lt;/p&gt;
+    &lt;p&gt;Anaconda is the full package portable tools, which may take too much storage from the disk. Miniconda is for solving these problems. Which you just need to install the tools that you want to use. This way makes more convenient for people to make a persoanl portable tools. &lt;/p&gt;
 &lt;/section&gt;
 
 &lt;/section&gt;
 </t>
-<t tx="49923230.20151129232925.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="49923230.20160104175347.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -473,14 +830,14 @@
 &lt;/script&gt;
 	
 </t>
-<t tx="49923230.20151129232925.2">&lt;!--
+<t tx="49923230.20160104175347.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="49923230.20151129232925.3">&lt;!doctype html&gt;
+<t tx="49923230.20160104175347.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -494,21 +851,21 @@
 &lt;/head&gt;
 @others
 </t>
-<t tx="49923230.20151129232925.4">&lt;body&gt;
+<t tx="49923230.20160104175347.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="49923230.20151129232925.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="49923230.20160104175347.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="49923230.20151129232925.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="49923230.20160104175347.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="49923230.20151129232925.7">&lt;section&gt;
+<t tx="49923230.20160104175347.7">&lt;section&gt;
     &lt;h1&gt;Installing Miniconda&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
@@ -516,7 +873,7 @@
 &lt;/section&gt;
 	
 </t>
-<t tx="49923230.20151129232925.8">&lt;section id="hw-task-one"&gt;
+<t tx="49923230.20160104175347.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;Homework reference&lt;/h1&gt;
     &lt;p&gt;Homework details&lt;/p&gt;
     &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
@@ -524,9 +881,199 @@
 &lt;/section&gt;
 				
 </t>
-<t tx="49923230.20151129232925.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104175347.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
-    &lt;p&gt;自我評分成績:90&lt;/p&gt;
+    &lt;p&gt;自我評分成績:80&lt;/p&gt;
+    &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="49923230.20160104175352.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="49923230.20160104175352.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Videos of using Onshape&lt;/h2&gt;
+    &lt;p&gt;Please slide down the page verticaly to watch the video.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Assemble Videos&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150560454" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150560454"&gt;Nutcracker assembly&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Steps of assembly&lt;/h2&gt;
+&lt;p&gt;1. Insert the component "base" and fix it in the working page.&lt;/p&gt;
+&lt;p&gt;2. Insert "adjuster base, hinge and cylinder".&lt;/p&gt;
+&lt;p&gt;3. Using "cylindrical mate" to mate the hole on each component.  &lt;/p&gt;
+&lt;p&gt;4. Using "planar mate" to mate the combined face on each component.&lt;/p&gt;
+&lt;p&gt;5. Insert "adjuster and piston."  &lt;/p&gt;
+&lt;p&gt;6. Using "slider mate" to mate "adjuster and piston".&lt;/p&gt;
+&lt;p&gt;7. Insert "connection and handle" and assemble them. &lt;/p&gt;
+&lt;p&gt;8. Give the limitation on "adjuster and piston" sliding part. &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20160104175352.11">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h4&gt;Reviews of using Onshape&lt;/h4&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;p&gt;Onshape is a fantastic browser app for CAD 3D design. People can collaborate with team on the smae working page. If there is something goes wrong, the histroy function might be helpful for designer. And the interface is really simple to use, just like solidworks. I think it's going to be very populer because of its convenience and collaboration function. Especially people don't need to bring their heavy laptop anymore. Becauese it supports tablets and smartphones, which makes people and work or show the design wherever they want.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20160104175352.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="49923230.20160104175352.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="49923230.20160104175352.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;14th weeks uploding&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="49923230.20160104175352.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="49923230.20160104175352.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20160104175352.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20160104175352.7">&lt;section&gt;
+    &lt;h1&gt;Onshape Practice&lt;/h1&gt;
+    &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Date: 2015/12/30&lt;/p&gt;	
+&lt;/section&gt;
+	
+</t>
+<t tx="49923230.20160104175352.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;Homework reference&lt;/h1&gt;
+    &lt;p&gt;Homework details&lt;/p&gt;
+    &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
+    &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="49923230.20160104175352.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h1&gt;自我評分&lt;/h1&gt;
+    &lt;p&gt;自我評分成績:80&lt;/p&gt;
+    &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="49923230.20160104175359.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="49923230.20160104175359.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h4&gt;Semester reviews&lt;/h4&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;p&gt;It's really cool that professor taught us not only CAD, but also a lot of value system and growing trend of technology of the world. I didn't know anything about github before, cuz I didn't have that much interested in programming. But I realize that it's also a trend in the world. It's almost becoming a basic knowledge for every single person. It's a awsome couse I can ever have. And also professor always mention about how important of english skill. So that's why I tried to do most of the assignments in english instead of chinese. In the future, we will face all the competitor from all over the world. And english will be the basic skill for us to compete with them. &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20160104175359.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="49923230.20160104175359.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="49923230.20160104175359.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;15th weeks uploding&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="49923230.20160104175359.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="49923230.20160104175359.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20160104175359.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20160104175359.7">&lt;section&gt;
+    &lt;h1&gt;Semester Reviews&lt;/h1&gt;
+    &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Date: 2016/01/02&lt;/p&gt;	
+&lt;/section&gt;
+	
+</t>
+<t tx="49923230.20160104175359.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;Homework reference&lt;/h1&gt;
+    &lt;p&gt;Homework details&lt;/p&gt;
+    &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
+    &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="49923230.20160104175359.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h1&gt;自我評分&lt;/h1&gt;
+    &lt;p&gt;自我評分成績:80&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
 &lt;/section&gt;</t>
 <t tx="amd.20150913232631.1"></t>
